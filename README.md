@@ -1,0 +1,2 @@
+[![Build Status](https://travis-ci.org/yana-chaputina/Wallpaper.svg?branch=master)](https://travis-ci.org/yana-chaputina/Wallpaper)
+[![codecov](https://codecov.io/gh/yana-chaputina/Wallpaper/branch/master/graph/badge.svg)](https://codecov.io/gh/yana-chaputina/Wallpaper)
